@@ -1,4 +1,3 @@
 # FirstWebsite
-My First Website development
-
-Author : Rajesh Singupuram
+# My First Website development
+# Author : Rajesh Singupuram
